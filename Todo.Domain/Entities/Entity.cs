@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace todo.domain.Entities
 {
-    abstract class Entity
+    abstract class Entity :IEquatable<Entity>
     {
         public Entity()
         {
@@ -12,5 +10,10 @@ namespace todo.domain.Entities
         }
 
         public Guid Id { get; private set; }
+
+        public bool Equals(Entity other)
+        {
+            return Id == other.Id;
+        }
     }
 }

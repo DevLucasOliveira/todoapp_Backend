@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9d0t12JJ7mvYSzDAhnO+u12wQPBrjm4wtTFOQuwcM/FzNTlEMcXPJJ6zXZ93AO5XNUcoE13jjce1iziVhDy7+g==",
+  "dgSpecHash": "PJXTS15kdGbavI8DhNmCj7p8W1kzRH2VqIxbX3WakatxcbZxPekh1BCalqFzxDfejkanX8QFHo+8jClO39oxzA==",
   "success": true,
   "projectFilePath": "C:\\Dev\\Balta.io\\TodoApp\\todo.domain\\todo.domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
