@@ -7,3 +7,15 @@ C:\dev\todoapp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.infra.Asse
 C:\dev\todoapp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.infra.csproj.CoreCompileInputs.cache
 C:\dev\todoapp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.infra.dll
 C:\dev\todoapp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.infra.pdb
+C:\Dev\Balta.io\TodoApp\todo.domain.infra\bin\Debug\netstandard2.0\todo.domain.infra.deps.json
+C:\Dev\Balta.io\TodoApp\todo.domain.infra\bin\Debug\netstandard2.0\todo.domain.infra.dll
+C:\Dev\Balta.io\TodoApp\todo.domain.infra\bin\Debug\netstandard2.0\todo.domain.infra.pdb
+C:\Dev\Balta.io\TodoApp\todo.domain.infra\bin\Debug\netstandard2.0\todo.domain.dll
+C:\Dev\Balta.io\TodoApp\todo.domain.infra\bin\Debug\netstandard2.0\todo.domain.pdb
+C:\Dev\Balta.io\TodoApp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.infra.csprojAssemblyReference.cache
+C:\Dev\Balta.io\TodoApp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.infra.AssemblyInfoInputs.cache
+C:\Dev\Balta.io\TodoApp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.infra.AssemblyInfo.cs
+C:\Dev\Balta.io\TodoApp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.infra.csproj.CoreCompileInputs.cache
+C:\Dev\Balta.io\TodoApp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.infra.csproj.CopyComplete
+C:\Dev\Balta.io\TodoApp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.infra.dll
+C:\Dev\Balta.io\TodoApp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.infra.pdb

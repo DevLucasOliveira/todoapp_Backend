@@ -5,7 +5,7 @@ using todo.domain.Commands.Contracts;
 
 namespace todo.domain.Commands
 {
-    class CreateTodoCommand : Notifiable, ICommand
+    public class CreateTodoCommand : Notifiable, ICommand
     {
         public CreateTodoCommand() { }
 
@@ -25,7 +25,7 @@ namespace todo.domain.Commands
             AddNotifications(
                 new Contract()
                 .Requires()
-                .HasMinLen(Title, 3, "Title", "Por favor, descreve melhor esta tarfe!")
+                .HasMinLen(Title, 3, "Title", "Por favor, descreve melhor esta tarefa!")
                 .HasMinLen(User, 6, "User", "Usuário inválido!")
                 );
         }

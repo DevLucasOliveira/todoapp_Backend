@@ -7,3 +7,11 @@ C:\dev\todoapp\todo.domain\obj\Debug\netstandard2.0\todo.domain.AssemblyInfo.cs
 C:\dev\todoapp\todo.domain\obj\Debug\netstandard2.0\todo.domain.csproj.CoreCompileInputs.cache
 C:\dev\todoapp\todo.domain\obj\Debug\netstandard2.0\todo.domain.dll
 C:\dev\todoapp\todo.domain\obj\Debug\netstandard2.0\todo.domain.pdb
+C:\Dev\Balta.io\TodoApp\todo.domain\bin\Debug\netstandard2.0\todo.domain.deps.json
+C:\Dev\Balta.io\TodoApp\todo.domain\bin\Debug\netstandard2.0\todo.domain.dll
+C:\Dev\Balta.io\TodoApp\todo.domain\bin\Debug\netstandard2.0\todo.domain.pdb
+C:\Dev\Balta.io\TodoApp\todo.domain\obj\Debug\netstandard2.0\todo.domain.AssemblyInfoInputs.cache
+C:\Dev\Balta.io\TodoApp\todo.domain\obj\Debug\netstandard2.0\todo.domain.AssemblyInfo.cs
+C:\Dev\Balta.io\TodoApp\todo.domain\obj\Debug\netstandard2.0\todo.domain.csproj.CoreCompileInputs.cache
+C:\Dev\Balta.io\TodoApp\todo.domain\obj\Debug\netstandard2.0\todo.domain.dll
+C:\Dev\Balta.io\TodoApp\todo.domain\obj\Debug\netstandard2.0\todo.domain.pdb
