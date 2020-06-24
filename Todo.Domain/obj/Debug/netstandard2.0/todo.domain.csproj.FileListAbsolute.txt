@@ -15,3 +15,4 @@ C:\Dev\Balta.io\TodoApp\todo.domain\obj\Debug\netstandard2.0\todo.domain.Assembl
 C:\Dev\Balta.io\TodoApp\todo.domain\obj\Debug\netstandard2.0\todo.domain.csproj.CoreCompileInputs.cache
 C:\Dev\Balta.io\TodoApp\todo.domain\obj\Debug\netstandard2.0\todo.domain.dll
 C:\Dev\Balta.io\TodoApp\todo.domain\obj\Debug\netstandard2.0\todo.domain.pdb
+C:\Dev\Balta.io\TodoApp\todo.domain\obj\Debug\netstandard2.0\todo.domain.csprojAssemblyReference.cache

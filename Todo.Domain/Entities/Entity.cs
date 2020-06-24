@@ -2,7 +2,7 @@
 
 namespace todo.domain.Entities
 {
-    abstract class Entity :IEquatable<Entity>
+    public abstract class Entity :IEquatable<Entity>
     {
         public Entity()
         {

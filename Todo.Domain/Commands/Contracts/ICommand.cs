@@ -2,5 +2,5 @@
 
 namespace todo.domain.Commands.Contracts
 {
-    interface ICommand : IValidatable { }
+    public interface ICommand : IValidatable { }
 }

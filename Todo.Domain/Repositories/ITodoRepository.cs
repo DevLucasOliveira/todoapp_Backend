@@ -2,7 +2,7 @@
 
 namespace todo.domain.Repositories
 {
-    interface ITodoRepository
+    public interface ITodoRepository
     {
         void Create(TodoItem todo);
         void Update(TodoItem todo);

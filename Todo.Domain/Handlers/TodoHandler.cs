@@ -7,7 +7,7 @@ using todo.domain.Repositories;
 
 namespace todo.domain.Handlers
 {
-    class TodoHandler : Notifiable, IHandler<CreateTodoCommand>
+    public class TodoHandler : Notifiable, IHandler<CreateTodoCommand>
     {
         private readonly ITodoRepository _repository;
 
@@ -20,10 +20,7 @@ namespace todo.domain.Handlers
             //Fail Fast Validation
             command.Validate();
             if (command.Invalid)
-                return new GenericCommandResult(
-                    false,
-                    "Ocorreu um erro com sua tarefa",
-                    command.Notifications);
+                return new GenericCommandResult(false, "Ocorreu um erro com sua tarefa", command.Notifications);
 
             // Gerar o TodoItem
             var todo = new TodoItem(command.Title, command.User, command.Date);

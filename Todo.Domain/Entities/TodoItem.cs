@@ -2,7 +2,7 @@
 
 namespace todo.domain.Entities
 {
-    class TodoItem : Entity
+    public class TodoItem : Entity
     {
         public TodoItem(string title, string user, DateTime date)
         {
