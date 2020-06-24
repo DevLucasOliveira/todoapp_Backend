@@ -7,7 +7,7 @@ using todo.domain.Commands.Contracts;
 
 namespace todo.domain.Commands
 {
-    class UpdateTodoCommand : Notifiable, ICommand
+    public class UpdateTodoCommand : Notifiable, ICommand
     {
         public UpdateTodoCommand() { }
         public UpdateTodoCommand(Guid id, string title, string user)
@@ -27,7 +27,8 @@ namespace todo.domain.Commands
                 new Contract()
                 .Requires()
                 .HasMinLen(Title, 3, "Title", "Por favor, descreva melhor")
-                .HasMinLen(User, 6, "User", "Uusário inválido"));
+                .HasMinLen(User, 6, "User", "Usário inválido")
+                );
         }
     }
 }
