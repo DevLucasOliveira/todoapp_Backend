@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using todo.domain.Handlers;
 using todo.domain.infra.Contexts;
+using todo.domain.infra.Repositories;
 using todo.domain.Repositories;
 
 namespace todo.domain.api
