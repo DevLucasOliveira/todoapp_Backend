@@ -184,8 +184,8 @@ C:\Dev\Balta.io\TodoApp\todo.domain.tests\bin\Debug\netcoreapp3.1\todo.domain.pd
 C:\Dev\Balta.io\TodoApp\todo.domain.tests\obj\Debug\netcoreapp3.1\todo.domain.tests.csprojAssemblyReference.cache
 C:\Dev\Balta.io\TodoApp\todo.domain.tests\obj\Debug\netcoreapp3.1\todo.domain.tests.AssemblyInfoInputs.cache
 C:\Dev\Balta.io\TodoApp\todo.domain.tests\obj\Debug\netcoreapp3.1\todo.domain.tests.AssemblyInfo.cs
-C:\Dev\Balta.io\TodoApp\todo.domain.tests\obj\Debug\netcoreapp3.1\todo.domain.tests.csproj.CoreCompileInputs.cache
 C:\Dev\Balta.io\TodoApp\todo.domain.tests\obj\Debug\netcoreapp3.1\todo.domain.tests.csproj.CopyComplete
 C:\Dev\Balta.io\TodoApp\todo.domain.tests\obj\Debug\netcoreapp3.1\todo.domain.tests.dll
 C:\Dev\Balta.io\TodoApp\todo.domain.tests\obj\Debug\netcoreapp3.1\todo.domain.tests.pdb
 C:\Dev\Balta.io\TodoApp\todo.domain.tests\obj\Debug\netcoreapp3.1\todo.domain.tests.genruntimeconfig.cache
+C:\Dev\Balta.io\TodoApp\todo.domain.tests\obj\Debug\netcoreapp3.1\todo.domain.tests.csproj.CoreCompileInputs.cache

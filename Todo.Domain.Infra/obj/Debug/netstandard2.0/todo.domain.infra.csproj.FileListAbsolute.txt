@@ -18,4 +18,4 @@ C:\Dev\Balta.io\TodoApp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.i
 C:\Dev\Balta.io\TodoApp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.infra.csproj.CopyComplete
 C:\Dev\Balta.io\TodoApp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.infra.dll
 C:\Dev\Balta.io\TodoApp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.infra.pdb
-C:\Dev\Balta.io\TodoApp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.infra.csproj.CoreCompileInputs.cache
+C:\dev\balta.io\todoapp\todo.domain.infra\obj\Debug\netstandard2.0\todo.domain.infra.csproj.CoreCompileInputs.cache
